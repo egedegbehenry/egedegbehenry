@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=scientistigwe&style=flat-square&color=blue" alt="my profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <div align="center">
 <h1>
