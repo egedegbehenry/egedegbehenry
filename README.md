@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on [RealFlow](https://github.com/scientistigwe/RealFlow-Platform)
+- 🔭 I’m currently working on [Interactive][https://github.com/egedegbehenry/Interactive-to-do-list]
 
 - 🌱 I’m currently learning **JavaScript, Python, SQL, REACT and other skills.**
 
@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I explore the world via road or trips, one place at a time.
 
-- 📄 Chekout my Resume here - [My Resume](https://scientistigwe.github.io/Personal-Profile/#)
+- 📄 Chekout my Resume here - [My Resume]([https://github.com/egedegbehenry/#]
 
 <hr>
 
