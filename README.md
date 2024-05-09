@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=scientistigwe&style=flat-square&color=blue" alt="my profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=egedegbehenry&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <br>
 <br>
 <div align="center">
 <h1>
-  Hello World! This is IGWE C.C.
+  Hello World! I am Henry Egedegbe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
 </h1>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+and+Backend+Dev.;Digital+Data+Analyst;Python+Dev.+and+DB+Admin." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+and+Backend+Enterpreneur+MechEngineer+HTML+CSS+JavaScript;Python+Git.+GitHub." />
 </p>
 
 ---
@@ -22,13 +22,13 @@
 
 - 🔭 I’m currently working on [RealFlow](https://github.com/scientistigwe/RealFlow-Platform)
 
-- 🌱 I’m currently learning **Django, Flask, REACT and other skills.**
+- 🌱 I’m currently learning **JavaScript, Python, SQL, REACT and other skills.**
 
-- 👨‍💻 All of my projects are available at [Chibueze C. Igwe's Profile](https://scientistigwe.github.io/Personal-Profile/)
+- 👨‍💻 All of my projects are available at [Henry Egedegbe](https://github.com/egedegbehenry?tab=repositories))
 
-- 💬 Ask me about **Ideation, JavaScript, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python, SQL, Data Analysis <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> and Visualisation **
+- 💬 Ask me about **Web development, JavaScript, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python, SQL, <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> and Visualisation **
 
-- :zap: In my free time, I tour the world via road trips, one place at a time.
+- :zap: In my free time, I explore the world via road or trips, one place at a time.
 
 - 📄 Chekout my Resume here - [My Resume](https://scientistigwe.github.io/Personal-Profile/#)
 
@@ -38,10 +38,9 @@
 
 ### 👨‍💻 Portfolio
 
-[Chibueze C. Igwe - Portfolio](https://scientistigwe.github.io/Personal-Profile/) ,
-</> and Crafted with 💛 by Chibueze C. Igwe
-
-<img id="optionalstuff" alt="Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=400px align="right"/>
+[Henry Egedegbe - Portfolio https://github.com/egedegbehenry],
+</> and Crafted with 💛 by Henry Egedegbe
+//<img id="optionalstuff" alt="Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=400px align="right"/>
 
 ---
 
