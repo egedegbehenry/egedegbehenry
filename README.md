@@ -13,7 +13,7 @@
 </h1>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+and+Backend+Enterpreneur+MechEngineer+HTML+CSS+JavaScript;Python+Git.+GitHub." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+and+Backend+Software+Developer+HTML+CSS+JavaScript;+Python,+Git.+GitHub." />
 </p>
 
 ---
