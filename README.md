@@ -120,7 +120,7 @@
 <p align="center">
 <a href="https:/egedegbehenry.github.io/Personal-Profile/"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:egedegbehe@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/scientistigwe"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/egedegbehenry"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/egedegbehenry"><img src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white"/></a><a href="https://twitter.com/HenryEgedegbe"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
