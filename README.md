@@ -13,7 +13,7 @@
 </h1>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+and+Backend+Software+Developer+HTML+CSS+JavaScript;+Python,+Git.+GitHub." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+and+Backend+Software+Developer;+HTML,+CSS,+JavaScript;+Python,+Git.+GitHub;+and+other+skills." />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Web development, JavaScript, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python, SQL, <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> and Visualisation **
 
-- :zap: In my free time, I explore the world via road or trips, one place at a time.
+- :zap: In my free time, I explore the world via air or road trips, one place at a time.
 
 - 📄 Chekout my Resume here - [My Resume]([https://github.com/egedegbehenry/#]
 
@@ -108,9 +108,9 @@
 ### :fire:&nbsp;GitHub Analytics ⚙️
 
 <p align="center">
-<a href="https://github.com/scientistigwe">
-<img  src="https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="scientistigwe" height=150px /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=scientistigwe&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="scientistigwe" height=150px/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scientistigwe&theme=nightowl&hide_border=true" alt="scientistigwe"/>
+<a href="https://github.com/egedegbehenry">
+<img  src="https://github-readme-stats.vercel.app/api?username=egedegbehenry&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="egedegbehenry" height=150px /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=egedegbehenry&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="egedegbehenry" height=150px/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egedegbehenry&theme=nightowl&hide_border=true" alt="henryegedegbe"/>
 </a>
 </p>
 <hr>
@@ -118,12 +118,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://scientistigwe.github.io/Personal-Profile/"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:scientistigwe@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https:/egedegbehenry.github.io/Personal-Profile/"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:egedegbehe@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/scientistigwe"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/scientistigwe"><img src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white"/></a><a href="https://twitter.com/ScientistIgwe_"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/scientistigwe/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
-<a href="https://clubhouse.com/@scientistigwe/"><img src="https://img.shields.io/badge/-Clubhouse-B655C8?style=flat&logo=clubhouse&logoColor=white"/></a>
+<a href="https://github.com/egedegbehenry"><img src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white"/></a><a href="https://twitter.com/HenryEgedegbe"><img src="https://img.shields.io/badge/-Twitter-42C3F7?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 <hr>
@@ -133,7 +131,7 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scientistigwe&theme=react-dark&hide_border=true" alt="scientistigwe"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=egedegbehenry&theme=react-dark&hide_border=true" alt="egedegbehenry"/>
 </p>
 
 ### Thanks for Visiting my GitHub Profile!
