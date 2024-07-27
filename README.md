@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [Interactive][https://github.com/egedegbehenry/Interactive-to-do-list]
 
-- 🌱 I’m currently learning **JavaScript, Python, SQL, REACT and other skills.**
+- 🌱 I’m currently learning **REACT and other skills.**
 
 - 👨‍💻 All of my projects are available at [Henry Egedegbe](https://github.com/egedegbehenry?tab=repositories))
 
