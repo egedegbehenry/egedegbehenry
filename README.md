@@ -22,15 +22,15 @@
 
 - 🔭 I’m currently working on [Interactive][https://github.com/egedegbehenry/Interactive-to-do-list]
 
-- 🌱 I’m currently learning **REACT and other skills.**
+- 🌱 I love learning and developing other skills.
 
-- 👨‍💻 All of my projects are available at [Henry Egedegbe](https://github.com/egedegbehenry?tab=repositories))
+- 👨‍💻 All of my projects are available at [Henry Egedegbe](https://github.com/egedegbehenry?tab=repositories)
 
 - 💬 Ask me about **Web development, JavaScript, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python, SQL, <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> and Visualisation **
 
 - :zap: In my free time, I explore the world via air or road trips, one place at a time.
 
-- 📄 Chekout my Resume here - [My Resume]([https://github.com/egedegbehenry/#]
+- 📄 Check out my Resume here - [My Resume]([https://github.com/egedegbehenry/#]
 
 <hr>
 
